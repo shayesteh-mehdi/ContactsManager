@@ -1,0 +1,14 @@
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.deps.json
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.dll
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.pdb
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Core.Contracts.dll
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Core.Domain.dll
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Core.Contracts.pdb
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\bin\Debug\netstandard2.0\ContactsManager.Core.Domain.pdb
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.csprojAssemblyReference.cache
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.AssemblyInfoInputs.cache
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.AssemblyInfo.cs
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.csproj.CopyComplete
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.dll
+C:\Users\Shayesteh-M\source\repos\ContactsManager\ContactsManager.Infrastructures.Dal\obj\Debug\netstandard2.0\ContactsManager.Infrastructures.Dal.pdb
